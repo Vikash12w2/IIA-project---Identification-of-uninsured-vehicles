@@ -1,0 +1,3 @@
+Advisory on camera visibility during heavy rain
+
+Heavy rain reduces the accuracy of plate reading on all highway cameras. Operators should treat low confidence reads with care and confirm them against registration records before raising alerts.

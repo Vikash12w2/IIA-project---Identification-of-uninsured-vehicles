@@ -1,0 +1,3 @@
+Camera CAM-016 incident log, Shivaji Nagar, Pune, 9 September 2026
+
+10:10:10 Black Skoda sedan, read MH14ZZ0O00, confidence 61 percent. The last group was partly hidden by a tow hook. The cleaned read MH14ZZ0000 matches an entry on the stolen vehicle list. Alert sent to Shivaji Nagar Police Station and to the MoT control room. The vehicle turned towards the university road.

@@ -1,0 +1,17 @@
+[
+  {"id": "exact-1", "query": "DL8CAF1234", "candidates": ["DL8CAF1234", "DL8CAF1235"], "relevant": ["DL8CAF1234"], "category": "exact"},
+  {"id": "format-1", "query": "DL-8C AF 1234", "candidates": ["DL8CAF1234", "DL8CAF1284"], "relevant": ["DL8CAF1234"], "category": "formatting"},
+  {"id": "substitution-1", "query": "DL8CAFI234", "candidates": ["DL8CAF1234", "DL8CAF1284"], "relevant": ["DL8CAF1234"], "category": "substitution"},
+  {"id": "insertion-1", "query": "DL8CAFX1234", "candidates": ["DL8CAF1234", "DL8CAF1235"], "relevant": ["DL8CAF1234"], "category": "insertion"},
+  {"id": "deletion-1", "query": "DL8CAF124", "candidates": ["DL8CAF1234", "DL8CAF1235"], "relevant": ["DL8CAF1234"], "category": "deletion"},
+  {"id": "ambiguous-1", "query": "DL8CAF123", "candidates": ["DL8CAF1234", "DL8CAF1235"], "relevant": ["DL8CAF1234", "DL8CAF1235"], "category": "ambiguous"},
+  {"id": "no-match-1", "query": "HR26ZZ9876", "candidates": ["DL8CAF1234", "UP16XY5555"], "relevant": [], "category": "no_match"},
+  {"id": "no-match-2", "query": "DL99QQ0000", "candidates": ["DL8CAF1234", "DL8CAF1235"], "relevant": [], "category": "no_match"},
+  {"id": "substitution-2", "query": "DL8CAF123S", "candidates": ["DL8CAF1235", "DL8CAF1234"], "relevant": ["DL8CAF1235"], "category": "substitution"},
+  {"id": "format-2", "query": "mh 12 ab 1234", "candidates": ["MH12AB1234", "MH12AB1235"], "relevant": ["MH12AB1234"], "category": "formatting"},
+  {"id": "ocr-1", "query": "DL8CAF1Z34", "candidates": ["DL8CAF1234", "DL8CAF1284"], "relevant": ["DL8CAF1234"], "category": "ocr_confusion"},
+  {"id": "ocr-2", "query": "MH12A81234", "candidates": ["MH12AB1234", "MH12AC1234"], "relevant": ["MH12AB1234"], "category": "ocr_confusion"},
+  {"id": "ocr-3", "query": "KA05MZ909O", "candidates": ["KA05MZ9090", "KA05MZ9091"], "relevant": ["KA05MZ9090"], "category": "ocr_confusion"},
+  {"id": "ocr-4", "query": "UP16CD432I", "candidates": ["UP16CD4321", "UP16CD4320"], "relevant": ["UP16CD4321"], "category": "ocr_confusion"},
+  {"id": "ocr-5", "query": "GJ01XYOOO1", "candidates": ["GJ01XY0001", "GJ01XY0011"], "relevant": ["GJ01XY0001"], "category": "ocr_confusion"}
+]
